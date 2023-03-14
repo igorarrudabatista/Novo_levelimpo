@@ -59,8 +59,8 @@
 							        <table class="table app-table-hover mb-0 text-left">
 										<thead>
 											<tr>
-												<th class="cell">Order</th>
-												<th class="cell">Product</th>
+												<th class="cell">Id</th>
+												<th class="cell">Nome</th>
 												<th class="cell">Customer</th>
 												<th class="cell">Date</th>
 												<th class="cell">Status</th>
