@@ -9,6 +9,8 @@
 			    <div class="row g-3 mb-4 align-items-center justify-content-between">
 				    <div class="col-auto">
 			            <h1 class="app-page-title mb-0">Clientes</h1>
+						<a href="form_empresa_cliente" button type="submit" class="btn app-btn-secondary">+ Clientes</button> </a>
+
 				    </div>
 				    <div class="col-auto">
 					     <div class="page-utilities">
